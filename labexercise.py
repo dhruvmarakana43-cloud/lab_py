@@ -28,18 +28,7 @@ print(x)
 x=10.5555555
 print(x)
 10.5555555
-x=?
-SyntaxError: invalid syntax
-print(x)
-10.5555555
-x=
-SyntaxError: invalid syntax
 
-x=bytearry(a)
-Traceback (most recent call last):
-  File "<pyshell#24>", line 1, in <module>
-    x=bytearry(a)
-NameError: name 'bytearry' is not defined. Did you mean: 'bytearray'?
 x=([65,66,67])
 print(x)
 [65, 66, 67]
