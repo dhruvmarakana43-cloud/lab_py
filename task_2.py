@@ -19,12 +19,10 @@ b = 20
 maximum = max(a, b)
 print("Maximum is:", maximum)
 Maximum is: 20
-P = 1000
-KeyboardInterrupt
+P = 1000
 R = 5
 T = 2
-T = 2SI = (P * R * T) / 100
-SyntaxError: invalid decimal literal
+T = 2SI = (P * R * T) / 100
 SI = (P * R * T) / 100
 print("Simple Interest is:", SI)
 Simple Interest is: 100.0
@@ -34,8 +32,7 @@ my_string = "Python"
 first_char = my_string[0]
 print("The first character is:", first_char)
 The first character is: P
-last_char = my_string[-1]last_char = my_string[-1]
-SyntaxError: invalid syntax
+last_char = my_string[-1]last_char = my_string[-1]
 last_char = my_string[-1]
 print("The last character is:", last_char)
 The last character is: n
@@ -52,12 +49,10 @@ else:
 The number is positive.
 a = 10
 b = 20
-c = 30
-SyntaxError: multiple statements found while compiling a single statement
-KeyboardInterrupt
+c = 30
+
 a = 10
-b = 20
-KeyboardInterrupt
+b = 20
 c = 30
 sum_of_numbers = a + b + c
 print("The sum is:", sum_of_numbers)
