@@ -20,17 +20,12 @@ x=true
 Traceback (most recent call last):
   File "<pyshell#12>", line 1, in <module>
     x=true
-NameError: name 'true' is not defined. Did you mean: 'True'?
 a=true
 Traceback (most recent call last):
   File "<pyshell#13>", line 1, in <module>
-    a=true
-NameError: name 'true' is not defined. Did you mean: 'True'?
 d=true
 Traceback (most recent call last):
   File "<pyshell#14>", line 1, in <module>
-    d=true
-NameError: name 'true' is not defined. Did you mean: 'True'?
 d='true'
 f='false'
 print(d and f)
@@ -68,3 +63,4 @@ print(x is y)
 True
 print(x is not y)
 False
+
