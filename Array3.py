@@ -23,7 +23,8 @@ print(arr[:-2])
 arr=array('i',[10,20,30,40,50])
 print(arr[::-1])
 
-#4.Modifying Slice
+#5.Modifying Slice
 arr=array('i',[10,20,30,40,50])
 arr[1:4]=array('i',[25,35,45])
+
 print(arr)
