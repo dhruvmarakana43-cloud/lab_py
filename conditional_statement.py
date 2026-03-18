@@ -1,8 +1,8 @@
-""" age = int(input("enter your age:"))
+age = int(input("enter your age:"))
 if age >= 18:
     print("yes you are eligible")
 else:
-    print("you arer not eligible")"""
+    print("you arer not eligible")
     
     
 marks = int(input("enter your marks:"))
